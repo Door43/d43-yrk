@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yrk:home|Door43 (yrk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yrk|d43-yrk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yrk/archive/master.zip|d43-yrk.zip]]
+
+**Recent Changes**
+{{changes>ns = yrk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yrk|Ethnologue data]]
+
